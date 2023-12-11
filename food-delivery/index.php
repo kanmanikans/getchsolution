@@ -334,95 +334,7 @@
                 </div>
             </div>
         </section>
-
-        <!--<section class="contact-four py-0 rpy-100">-->
-        <!--    <div class="container">-->
-        <!--        <div class="contact-inner-four box-shadow p-35 rpx-25 br-5 bg-white">-->
-        <!--            <div class="row">-->
-        <!--                <div class="col-lg-6">-->
-        <!--                <div class="about-content-six pr-90 rpr-0 rmb-65 wow fadeInLeft delay-0-2s">-->
-        <!--                    <div class="section-title mb-25">-->
-        <!--                         <span class="sub-title">It Support For Business</span> -->
-        <!--                        <h2>USPs Of G Tech Food Delivery App Development Services</h2>-->
-        <!--                    </div>-->
-        <!--                    <p>We are a #1 food delivery app development company With a track record of launching food delivery application across various countries and catering to diverse target audiences, G Tech possesses valuable insights into the unique challenges of food delivery platforms. In addition, we offer skilled developers specializing in food delivery app development, accompanied by an experienced Product Manager. Our Unique selling point of app development services are:</a></p>-->
-        <!--                    <ul class="list-style-one mt-25 pb-10">-->
-        <!--                        <li>10+ Years of Industry Experience</li>-->
-        <!--                        <li>50 + Dedicated Professionals</li>-->
-        <!--                        <li>500 + Satisfied Clients</li>-->
-        <!--                        <li>25 + Countries Covered</li>-->
-        <!--                        <li>900+ Projects Successfully Delivered</li>-->
-        <!--                        <li>90% Repeat Business</li>-->
-        <!--                    </ul>-->
-
-        <!--                </div>-->
-        <!--            </div>-->
-        <!--                <div class="col-lg-6">-->
-        <!--                    <div class="contact-section-form px-15 rpx-0 rmb-50 wow fadeInUp delay-0-2s">-->
-        <!--                        <div class="section-title mb-20">-->
-        <!--                            <h2 id="1">Get In Touch</h2>-->
-        <!--                        </div>-->
-        <!--                         <form id="contact-form1" class="contact-form" name="contact-form" action="https://gtechwebsolutions.com/send-mail.php"-->
-        <!--                            method="post">-->
-        <!--                            <div class="row">-->
-        <!--                                <div class="col-sm-6">-->
-        <!--                                    <div class="form-group">-->
-        <!--                                        <label for="name">Your name</label>-->
-        <!--                                        <input type="text" id="name" name="name" class="form-control"-->
-        <!--                                            placeholder="Name" required>-->
-        <!--                                    </div>-->
-        <!--                                </div>-->
-        <!--                                <div class="col-sm-6">-->
-        <!--                                    <div class="form-group">-->
-        <!--                                        <label for="email">Your email address</label>-->
-        <!--                                        <input type="email" id="email" name="email" class="form-control"-->
-        <!--                                            placeholder="Email" required>-->
-        <!--                                        <input type="hidden" id="pagename" name="pagename" class="form-control"-->
-        <!--                                            value="Food Ordering delivery app development" >-->
-        <!--                                    </div>-->
-        <!--                                </div>-->
-        <!--                                <div class="col-sm-6">-->
-        <!--                                    <div class="form-group">-->
-        <!--                                        <label for="number">Your phone number</label>-->
-        <!--                                        <input type="text" id="number" name="number" class="form-control"-->
-        <!--                                            placeholder="Phone Number" required>-->
-        <!--                                    </div>-->
-        <!--                                </div>-->
-        <!--                                <div class="col-sm-6">-->
-        <!--                                    <div class="form-group">-->
-        <!--                                        <label for="service">Service Required</label>-->
-        <!--                                        <select id="service" name="service">-->
-        <!--                                            <option value="default" selected>Select Services</option>-->
-        <!--                                            <option value="Mobile App Development">Mobile App Development</option>-->
-        <!--                                            <option value="Mobile App Marketing">Mobile App Marketing</option>-->
-        <!--                                            <option value="SEO Services">SEO Services</option>-->
-        <!--                                            <option value="Ui & UX Design">Ui & UX Design</option>-->
-        <!--                                            <option value="Website Development">Website Development</option>-->
-        <!--                                            <option value="Others">Others</option>-->
-        <!--                                        </select>-->
-        <!--                                    </div>-->
-        <!--                                </div>-->
-        <!--                                <div class="col-sm-12">-->
-        <!--                                    <div class="form-group">-->
-        <!--                                        <textarea name="comments" id="comments" class="form-control" rows="4"-->
-        <!--                                            placeholder="Let us know what you need." required></textarea>-->
-        <!--                                    </div>-->
-        <!--                                </div>-->
-        <!--                                <div class="col-sm-12">-->
-        <!--                                    <button type="submit" class="theme-btn">Send Message</button>-->
-        <!--                                </div>-->
-        <!--                            </div>-->
-        <!--                        </form> -->
-
-
-        <!--                    </div>-->
-        <!--                </div>-->
-
-        <!--            </div>-->
-        <!--        </div>-->
-        <!--    </div>-->
-        <!--</section>-->
-        <!-- Contact Area End -->
+    
 
         <!-- Hero Section Start -->
         <section class="hero-section-three bgs-cover  pt-60 rpt-20 pb-20 rpb-30" id="home">
@@ -492,20 +404,7 @@
                                                     placeholder="Phone Number" required>
                                             </div>
                                         </div>
-                                        <!--<div class="col-sm-6">-->
-                                        <!--    <div class="form-group">-->
-                                        <!--        <label for="service">Service Required</label>-->
-                                        <!--        <select id="service" name="service">-->
-                                        <!--            <option value="default" selected>Select Services</option>-->
-                                        <!--            <option value="Mobile App Development">Mobile App Development</option>-->
-                                        <!--            <option value="Mobile App Marketing">Mobile App Marketing</option>-->
-                                        <!--            <option value="SEO Services">SEO Services</option>-->
-                                        <!--            <option value="Ui & UX Design">Ui & UX Design</option>-->
-                                        <!--            <option value="Website Development">Website Development</option>-->
-                                        <!--            <option value="Others">Others</option>-->
-                                        <!--        </select>-->
-                                        <!--    </div>-->
-                                        <!--</div>-->
+                                       
                                         <div class="col-sm-12">
                                             <div class="form-group">
                                                 <label for="name">Message</label>
