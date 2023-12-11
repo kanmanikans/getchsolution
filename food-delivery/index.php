@@ -1283,7 +1283,7 @@
 
 
         <!--form footer section-->
-        <?php include('../../../assets/inc/form.php') ?>
+       
 
 
 
