@@ -27,7 +27,7 @@ session_start();
 		
 			$cont = "Inquiry Details<br><br>Name: $name<br>Email: $email<br>Phone: $number<br>Service: $service<br>Comments: $comments<br><br>Page: $pagename";
 		
-			$email = "dev@gtechwebsolutions.com,shalini@gtechwebsolutions.com,siddiq@gtechwebsolutions.com,ranjithkannan.gts@gmail.com";
+			$email = "dev@gtechwebsolutions.com,shalini@gtechwebsolutions.com,siddiq@gtechwebsolutions.com,ranjithkannan.gts@gmail.com,kanmani.gtech@gmail.com";
 			$headers = array ('From' => $from,
 			'To' => $email,
 			'Subject' => $subject,
